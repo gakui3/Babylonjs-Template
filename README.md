@@ -6,7 +6,7 @@ install
 `npm install`  
   
 watch  
-`npm run watch`  
+`vite dev --host  
 
 build  
-`npm run build`  
+`vite build`  
