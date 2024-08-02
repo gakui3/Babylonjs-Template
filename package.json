@@ -11,13 +11,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@babylonjs/gui": "^6.47.0",
+    "@babylonjs/core": "^7.18.0",
+    "@babylonjs/gui": "^7.18.0",
+    "@babylonjs/materials": "^7.18.0",
     "@vitejs/plugin-basic-ssl": "^1.1.0",
     "vite": "^5.1.6"
   },
   "devDependencies": {
-    "@babylonjs/core": "^6.47.0",
-    "@babylonjs/materials": "^6.47.0",
     "eslint": "^8.57.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.29.1",
